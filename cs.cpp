@@ -1,4 +1,4 @@
- /Basic Struct Definitions
+ //Basic Struct Definitions
 #include <iostream>
 #include <string>
 using namespace std;
